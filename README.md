@@ -26,3 +26,11 @@ The dataset contains machine sensor readings and failure labels. Key features in
 ```bash
 git clone https://github.com/your-username/Predictive-Maintenance-ML.git  
 cd Predictive-Maintenance-ML
+
+## 📊 Results & Insights
+- ✅ Model Accuracy and Precision Analysis: Evaluating the predictive performance of models.
+- 📌 Feature Importance Ranking: Identifying key variables influencing machine failures.
+- 🛠️ Maintenance Scheduling Recommendations: Providing insights for preventive maintenance planning.
+
+## 🤝 Contributing
+Contributions are welcome! Feel free to submit issues or pull requests to enhance this project.
