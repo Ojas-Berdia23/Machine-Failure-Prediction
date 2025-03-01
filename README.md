@@ -13,7 +13,7 @@ This project applies machine learning techniques to predict industrial machine f
 - **Python** 🐍  
 - **Pandas**, **NumPy** for data manipulation  
 - **Matplotlib**, **Seaborn** for visualization  
-- **Scikit-learn**, **TensorFlow/Keras** (if deep learning is used)  
+- **Scikit-learn** 
 
 ## 📂 Dataset
 The dataset contains machine sensor readings and failure labels. Key features include:  
