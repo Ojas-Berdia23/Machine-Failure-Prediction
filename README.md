@@ -26,6 +26,7 @@ The dataset contains machine sensor readings and failure labels. Key features in
 ```bash
 git clone https://github.com/your-username/Predictive-Maintenance-ML.git  
 cd Predictive-Maintenance-ML
+```
 
 ## 📊 Results & Insights
 - ✅ Model Accuracy and Precision Analysis: Evaluating the predictive performance of models.
