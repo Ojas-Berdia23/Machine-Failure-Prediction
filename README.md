@@ -24,7 +24,7 @@ The dataset contains machine sensor readings and failure labels. Key features in
 ## 🚀 Installation & Usage
 ### 1️⃣ Clone the repository  
 ```bash
-git clone https://github.com/your-username/Predictive-Maintenance-ML.git  
+git clone https://github.com/your-username/Predictive-Maintenance-ML.git
 cd Predictive-Maintenance-ML
 ```
 
